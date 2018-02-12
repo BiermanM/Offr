@@ -40,13 +40,18 @@ body {
 }
 
 .cover-heading {
-    font-size: 500%;
+    font-size: 600%;
+    font-family: 'Lato', sans-serif;
 }
 
 .cover-container {
     position: fixed;
     z-index: 0;
     width: 100%;
+}
+
+.small-text {
+    font-family: 'Raleway', sans-serif;
 }
 
 #bg {
