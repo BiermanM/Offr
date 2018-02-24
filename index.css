@@ -7,7 +7,7 @@ a:hover {
 
 /* Custom default button */
 .btn-primary {
-  color: rgba(58, 118, 255, 0.6);
+  color: rgba(30, 136, 229, 0.6);
   text-shadow: none; /* Prevent inheritance from `body` */
   background-color: #fff;
   border: .05rem solid #fff;
@@ -15,22 +15,21 @@ a:hover {
 
 .btn-primary:hover,
 .btn-primary:focus {
-    color: rgb(58, 118, 255);
+    color: rgb(30, 136, 229);
     text-shadow: none; /* Prevent inheritance from `body` */
     background-color: #fff;
     border: .05rem solid #fff;
 }
 
 .btn-primary:active {
-    background-color: rgb(58, 118, 255);
+    background-color: rgb(30, 136, 229);
 }
-
 
 /* Base structure */
 html,
 body {
   height: 100%;
-  background-color: rgba(58, 118, 255, 0.6);
+  background-color: rgba(30, 136, 229, 0.6);
 }
 
 body {
@@ -73,7 +72,6 @@ body {
     }
 }
 
-
 /* Header */
 .masthead {
   margin-bottom: 2rem;
@@ -114,7 +112,6 @@ body {
   }
 }
 
-
 /* Cover */
 .cover {
   padding: 0 3rem;
@@ -123,7 +120,6 @@ body {
   padding: .75rem 1.25rem;
   font-weight: 700;
 }
-
 
 /* Footer */
 .mastfoot {
